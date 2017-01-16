@@ -1,0 +1,16 @@
+Read Me
+
+MRZR Load
+
+Vehicle=rhsusf_mrzr4_d   MRZR ATV
+
+Truck=rhsusf_M1083A1P2_wd_flatbed_fmtv_usarmy
+
+Place in the Init of Truck:
+
+this addaction ["<t color=""#F7C307"">" +"Load MRZR", "MRZRLoad\load.sqf", [0,-1.4,1.2]]; 
+
+Pload Folder 2 files "load" "detach"
+
+
+
